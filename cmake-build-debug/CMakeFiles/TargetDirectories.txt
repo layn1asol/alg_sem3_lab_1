@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/alglab1_mod/cmake-build-debug/CMakeFiles/alglab1_mod.dir
+C:/Users/User/CLionProjects/alglab1_mod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/alglab1_mod/cmake-build-debug/CMakeFiles/rebuild_cache.dir

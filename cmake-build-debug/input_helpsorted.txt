@@ -1,0 +1,3 @@
+
+Sorting method used: Polyphase Sort
+Number of disk interactions: 8
